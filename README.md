@@ -26,31 +26,31 @@
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/ENGINES/BITTRIP`](../../Bit.Trip_Editor)<br/>
+[`PUSHD /WORK/ENGINES/BITTRIP`](Bit.Trip_Editor)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD COMMUNITY`](http://bittripeditor.boards.net)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/ENGINES/KLONOA`](../../Cloneoa)<!--br/>
+[`PUSHD /WORK/ENGINES/KLONOA`](Cloneoa)<!--br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD COMMUNITY`](http://klo.boards.net)<br/--><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/REMAKES/11UP`](../../../11UP)<br/>
+[`PUSHD /WORK/REMAKES/11UP`](11UP)<br/>
 ```
      ----------------------------------------------
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/MODS/FASTGH3`](../../FastGH3)<br/>
+[`PUSHD /WORK/MODS/FASTGH3`](FastGH3)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/MODS/GHVIII`](http://donnaken15.itch.io/gh8)<br/>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/MODS/STAGE77`](../../STAGE77)<br/-->
+[`PUSHD /WORK/MODS/STAGE77`](STAGE77)<br/-->
 ```
         ((GUITAR_HERO || ROCK_BAND) + _CHARTS) || (SOURCE_SDK + _MAPS)
 ```
