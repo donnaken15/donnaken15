@@ -29,7 +29,7 @@
 [`PUSHD /WORK/ENGINES/BITTRIP`](donnaken15/Bit.Trip_Editor)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD COMMUNITY`](donnaken15/http://bittripeditor.boards.net)<br/>
+[`PUSHD COMMUNITY`](http://bittripeditor.boards.net)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/ENGINES/KLONOA`](donnaken15/Cloneoa)<!--br/>
