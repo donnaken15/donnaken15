@@ -26,25 +26,25 @@
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/ENGINES/BITTRIP`](donnaken15/Bit.Trip_Editor)<br/>
+[`PUSHD /WORK/ENGINES/BITTRIP`](Bit.Trip_Editor)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD COMMUNITY`](http://bittripeditor.boards.net)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/ENGINES/KLONOA`](donnaken15/Cloneoa)<!--br/>
+[`PUSHD /WORK/ENGINES/KLONOA`](Cloneoa)<!--br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD COMMUNITY`](http://klo.boards.net)<br/--><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/REMAKES/11UP`](donnaken15/11UP)<br/>
+[`PUSHD /WORK/REMAKES/11UP`](11UP)<br/>
 ```
      ----------------------------------------------
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/MODS/FASTGH3`](donnaken15/FastGH3)<br/>
+[`PUSHD /WORK/MODS/FASTGH3`](FastGH3)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/MODS/GHVIII`](http://donnaken15.itch.io/gh8)<br/>
@@ -59,7 +59,7 @@
 [`PUSHD /WORK/CHARTS`](https://drive.google.com/drive/folders/1ws63eBtU6ufWj0MLJ1jeeR0o73FfZHVo)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/MAPS/HL2`](donnaken15/hl2maps)
+[`PUSHD /WORK/MAPS/HL2`](hl2maps)
 ```
      >> CONTACT || LINKS   V  V  V  V  V  V
      ----------------------------------------------
