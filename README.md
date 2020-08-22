@@ -60,6 +60,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/MAPS/HL2`](../donnaken15/hl2maps)
 ```
+     >> OTHER     V  V  V  V  V  V  V  V  V
+     ----------------------------------------------
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`PUSHD /WORK/GISTS`](https://gist.github.com/donnaken15)
+```
      >> CONTACT || LINKS   V  V  V  V  V  V
      ----------------------------------------------
 ```
