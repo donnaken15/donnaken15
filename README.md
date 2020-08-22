@@ -55,7 +55,7 @@
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/CHARTS`](https://drive.google.com/drive/folders/1ws63eBtU6ufWj0MLJ1jeeR0o73FfZHVo)<br/>
+[`PUSHD /WORK/CHARTS`](../donnaken15/charts)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/MAPS/HL2`](../donnaken15/hl2maps)
