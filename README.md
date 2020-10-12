@@ -78,3 +78,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;[`START "Email Wesley" mailto:wesley@gmx.it`](mailto:wesley@gmx.it)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;[`START "DEV.TO" http://dev.to/donnaken15`](http://dev.to/donnaken15)
+```
+     >> SPECS | EQPMT      V  V  V  V  V  V
+     ----------------------------------------------
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET VIDEO  ="LG 32GK650F-B; 2560x1440@144"`<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Monitor" /amz/B07FLGR2PN`](https://amz.run/3ebE)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET MOUSE  ="Logitech M310"`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Mouse" /lgt/m310`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET CAMERA ="Logitech C922; 1280x720@60, 1920x1080@30"`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Camera" /lgt/c922`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET KEYBD  ="Dell SK-8115 (from school xd)"`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`echo past keybds: ["gear head pi keyboard", "razer blackwidow 2016"]`<br/>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "KeyboardOld2" /rzr/bw16`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/-->
