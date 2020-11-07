@@ -11,9 +11,6 @@
 `PUSHD /VIDEOS`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`TYPE  TODO`](https://github.com/users/donnaken15/projects/1)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD LATEST`](http://youtube.com/donnaken15/videos)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
@@ -24,6 +21,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD S1`](https://www.youtube.com/playlist?list=PLTWDLMN4U1FOm4e41cH3tvZSfA75xLB0v)`// SEASON ONE...; 2011-2015`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`TYPE  TODO`](https://github.com/users/donnaken15/projects/1)<br/>
 ```
         VIDEO_GAMES * (((CUSTOM_LEVEL_ENGINE||REMAKE) * __OPEN_SOURCE) || HACKING)
 ```
