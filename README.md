@@ -11,6 +11,9 @@
 `PUSHD /VIDEOS`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`TYPE  TODO`](https://github.com/users/donnaken15/projects/1)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD LATEST`](http://youtube.com/donnaken15/videos)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
@@ -38,7 +41,7 @@
 [`PUSHD COMMUNITY`](http://klo.boards.net)<br/--><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/REMAKES/11UP`](11UP)<br/>
+[`PUSHD /WORK/REMAKES/11UP`](http://github.com/donnaken15/11UP)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&#45;&#45;&#45;-------------------------------------------<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,14 +92,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET MOUSE  ="Logitech M310"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Mouse" /lgt/m310`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Mouse"   /lgt/m310`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET CAMERA ="Logitech C922; 1280x720@60, 1920x1080@30"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Camera" /lgt/c922`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Camera"  /lgt/c922`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET KEYBD  ="Dell SK-8115 (from school xd)"`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET KEYBD  ="Dell SK-8115 (from school xd)"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`echo past keybds: ["gear head pi keyboard", "razer blackwidow 2016"]`<br/>
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "KeyboardOld2" /rzr/bw16`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "KeyboardOld2" /rzr/bw16 || /amz/B00MTWV0II`](https://amz.run/3vBF)<br/>
