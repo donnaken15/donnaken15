@@ -100,6 +100,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET KEYBD  ="Dell SK-8115 (from school xd)"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`echo past keybds: ["gear head pi keyboard", "razer blackwidow 2016"]`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`echo past keybds: ["gear head pi keyboard", "razer blackwidow 2016 chroma"]`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "KeyboardOld2" /rzr/bw16 || /amz/B00MTWV0II`](https://amz.run/3vBF)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "KeyboardOld2" /rzr/bw16c || /amz/B00MTWV0II`](https://amz.run/3vBF)<br/>
