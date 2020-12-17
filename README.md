@@ -69,6 +69,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/GISTS`](https://gist.github.com/donnaken15)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`PUSHD /WORK/SFX`](https://github.com/donnaken15/sfx)
 ```
      >> CONTACT || LINKS   V  V  V  V  V  V
      ----------------------------------------------
