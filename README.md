@@ -29,27 +29,39 @@
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/ENGINES/BITTRIP`](http://github.com/donnaken15/Bit.Trip_Editor)<br/>
+`PUSHD /WORK/`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`PUSHD ENGINES/BITTRIP`](http://github.com/donnaken15/Bit.Trip_Editor)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD COMMUNITY`](http://bittripeditor.boards.net)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`PUSHD ACTIVITY`](https://github.com/donnaken15/Bit.Trip_Editor/graphs/code-frequency)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/ENGINES/KLONOA`](http://github.com/donnaken15/Cloneoa)<!--br/>
+[`PUSHD ENGINES/KLONOA`](http://github.com/donnaken15/Cloneoa)<!--br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD COMMUNITY`](http://klo.boards.net)<br/--><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`PUSHD ACTIVITY`](https://github.com/donnaken15/Cloneoa/graphs/code-frequency)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/REMAKES/11UP`](http://github.com/donnaken15/11UP)<br/>
+[`PUSHD REMAKES/11UP`](http://github.com/donnaken15/11UP)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&#45;&#45;&#45;-------------------------------------------<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/MODS/FASTGH3`](http://github.com/donnaken15/FastGH3)<br/>
+`PUSHD MODS`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
-[`PUSHD /WORK/MODS/GHVIII`](http://donnaken15.itch.io/gh8)<br/>
+[`PUSHD FASTGH3`](http://github.com/donnaken15/FastGH3)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
+[`PUSHD GHVIII`](http://donnaken15.itch.io/gh8)<br/>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/MODS/STAGE77`](donnaken15/STAGE77)<br/-->
@@ -73,7 +85,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;
 [`PUSHD /WORK/SFX`](https://github.com/donnaken15/sfx)
 ```
-     >> CONTACT || LINKS   V  V  V  V  V  V
+     >> CONTACT | LINKS   V  V  V  V  V  V
      ----------------------------------------------
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
