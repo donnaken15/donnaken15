@@ -123,4 +123,6 @@
      ----------------------------------------------
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET VIDEO  ="LG 32GK650F-B; 2560x1440@144"`<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;[`START "KOFI" /kofi/dk15`](https://ko-fi.com/donnaken15)<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;[`START "THREAD" /tspr/dk15`](https://teespring.com/stores/donnaken15)<br/> 
