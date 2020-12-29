@@ -113,8 +113,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "Camera"  /lgt/c922`](https://www.logitech.com/en-us/products/mice/m310-wireless-mouse.910-001675.html)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET KEYBD  ="Dell SK-8115 (from school xd)"`<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`echo past keybds: ["gear head pi keyboard", "razer blackwidow 2016 chroma"]`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET KEYBD  ="Razer BlackWidow Chroma 2016"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`START "KeyboardOld2" /rzr/bw16c || /amz/B00MTWV0II`](https://amz.run/3vBF)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`echo past keybds: ["gear head pi keyboard", "dell sk-8115 (from school xd)"]`<br/>
+```
+     >> SUPPORT | COMMERCIAL  V  V  V  V  V
+     ----------------------------------------------
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  &gt;&nbsp;&nbsp;`SET VIDEO  ="LG 32GK650F-B; 2560x1440@144"`<br/> 
